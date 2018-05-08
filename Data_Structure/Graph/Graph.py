@@ -1,4 +1,4 @@
-from DFS import Depth_First_Search
+from lib import Depth_First_Search
 def main():
     graph = {'A': set(['B', 'D', 'E']),
              'B': set(['A', 'C']),
