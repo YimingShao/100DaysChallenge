@@ -1,4 +1,5 @@
 from lib import Depth_First_Search
+
 def main():
     graph = {'A': set(['B', 'D', 'E']),
              'B': set(['A', 'C']),

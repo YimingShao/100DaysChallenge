@@ -12,6 +12,7 @@ def main():
     my_file = open(my_path, "a+")
     key = rec_input()
 
+
     if not check_Empty(my_path):
         if key != "start":
             print("You should start first")
