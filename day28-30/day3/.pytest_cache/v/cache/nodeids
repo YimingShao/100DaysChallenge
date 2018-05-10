@@ -1,0 +1,8 @@
+[
+  "test_regex.py::test_extract_course_times",
+  "test_regex.py::test_split_on_multiple_chars",
+  "test_regex.py::test_get_all_hashtags_and_links",
+  "test_regex.py::test_match_first_paragraph",
+  "test_regex.py::test_find_double_words",
+  "test_regex.py::test_match_ip_address"
+]

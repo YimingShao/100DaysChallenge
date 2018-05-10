@@ -6,9 +6,9 @@ def main():
     # when_not_use_regexes()
     # Comparing_re_search_and_re_match()
     # String_capturing_parenthesis()
-    # find_all_is_your_friend()
+     find_all_is_your_friend()
     #   Compiling_regexes()
-    pass
+
 
 
 def when_not_use_regexes(text):
