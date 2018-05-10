@@ -1,4 +1,6 @@
 # Pre: Graph is a connected graph
+
+
 def Depth_First_Search(graph, vertex, known, forest):
 
     # Mark vertex u as visited
@@ -13,5 +15,11 @@ def Depth_First_Search(graph, vertex, known, forest):
     return known
 
 
-def Breadth_First_Search():
-    pass
+def Breadth_First_Search(graph, root):
+    visited, queue = set(),[root]
+    while queue:
+        vertex = queue.pop(0)
+        if vertex not in visited:
+            visited.add(vertex)
+            queue.extend(graph[vertex]-visited)
+    return visited
