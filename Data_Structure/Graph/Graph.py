@@ -14,9 +14,9 @@ def main():
              'D': set(['A', 'C', 'F']),
              'E': set(['B', 'C', 'F']),
              'F': set(['C', 'D'])}
-    #visited = Depth_First_Search(DFS_graph, 'A', [], [])
-    #print('DFS:\n'+str(visited))
-    #print()
+    visited = Depth_First_Search(DFS_graph, 'A', [], [])
+    print('DFS:\n'+str(visited))
+    print()
     visited = Breadth_First_Search(BFS_graph, 'A')
     print('BFS:\n'+str(visited))
     print()
