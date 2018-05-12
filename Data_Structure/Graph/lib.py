@@ -18,8 +18,12 @@ def Depth_First_Search(graph, vertex, known, forest):
 def Breadth_First_Search(graph, root):
     visited, queue = set(),[root]
     while queue:
+        print('Beginning: ' + str(queue))
         vertex = queue.pop(0)
         if vertex not in visited:
             visited.add(vertex)
+            print('Visited: '+str(visited))
+
             queue.extend(graph[vertex]-visited)
+            print('Ending: ' +str(queue)+'\n\n\n')
     return visited
