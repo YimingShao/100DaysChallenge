@@ -8,10 +8,10 @@ def main():
     Selection_Sort(test1)
     print('After: {}'.format(test1))
 
-
-
 def testing_ary():
     return (random.sample(range(0,100), 20))
+
+
 
 if __name__ == '__main__':
     main()
