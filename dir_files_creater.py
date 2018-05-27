@@ -47,9 +47,6 @@ def make_challenge_dir():
         print('Error: Director for today exists')
 
 
-
-
-
 def menu():
     print('---------------------------------')
     print('          Dir_files_creater')
