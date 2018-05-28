@@ -1,7 +1,6 @@
 import api
-import requests.exceptions
 import sys
-import webbrowser
+
 
 def main():
     menu()
@@ -22,7 +21,7 @@ def main():
         elif key is '4':
             my_city=input('Insert a city name:\t')
             my_country=input('Insert a country code:\t')
-            api.view_raw_data(my_city,my_country)
+            api.view_raw_data(my_city, my_country)
             data= None
         if data is not None:
             api.status_print(data)

@@ -1,5 +1,4 @@
 from api import (get_info_by_zip,get_info_by_name,get_info_by_coor,status_print)
-import requests.exceptions
 import sys
 
 def main():

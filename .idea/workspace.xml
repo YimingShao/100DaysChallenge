@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14bcb6ba-12e5-4406-ac02-b01500f99ea7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day43-45/day3/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43-45/day3/program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day46-48/day3/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day46-48/day3/my_file.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day46-48/day3/program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/100DaysChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysChallenge.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir_files_creater.py" beforeDir="false" afterPath="$PROJECT_DIR$/dir_files_creater.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day40-42/day3/program.py" beforeDir="false" afterPath="$PROJECT_DIR$/day40-42/day3/program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day43-45/day3/program.py" beforeDir="false" afterPath="$PROJECT_DIR$/day43-45/day3/program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day46-48/day2/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/day46-48/day2/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day46-48/day2/program.py" beforeDir="false" afterPath="$PROJECT_DIR$/day46-48/day2/program.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,35 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scraper.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day46-48/day1/scraper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day46-48/day2/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="program.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day46-48/day2/program.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="90">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -132,8 +121,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
-    <option name="y" value="137" />
+    <option name="x" value="287" />
+    <option name="y" value="23" />
     <option name="width" value="1284" />
     <option name="height" value="678" />
   </component>
@@ -143,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,10 +150,17 @@
               <item name="day46-48" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="day46-48" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,17 +168,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day46-48/day3" />
-      <recent name="$PROJECT_DIR$/day37-39/day3" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day46-48/day3" />
       <recent name="$PROJECT_DIR$/day46-48/day2" />
       <recent name="$PROJECT_DIR$/day43-45/day3" />
       <recent name="$PROJECT_DIR$/day43-45/day2" />
       <recent name="$PROJECT_DIR$/day40-42/day1" />
-      <recent name="$PROJECT_DIR$/day37-39/day2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day46-48/day2" />
+      <recent name="$PROJECT_DIR$/day46-48/day3" />
+      <recent name="$PROJECT_DIR$/day37-39/day3" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.program">
+  <component name="RunManager" selected="Python.program (3)">
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,7 +231,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="program (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="program (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day43-45/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day46-48/day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day43-45/day2/program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day46-48/day2/program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +261,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day46-48/day2/program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day46-48/day3/program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,19 +286,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.program (2)" />
       <item itemvalue="Python.scraper" />
       <item itemvalue="Python.program (1)" />
       <item itemvalue="Python.api" />
       <item itemvalue="Python.program" />
+      <item itemvalue="Python.program (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.program (3)" />
         <item itemvalue="Python.program" />
         <item itemvalue="Python.scraper" />
         <item itemvalue="Python.program (1)" />
         <item itemvalue="Python.api" />
-        <item itemvalue="Python.program (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -346,19 +342,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="348" y="155" width="1284" height="756" extended-state="0" />
+    <frame x="287" y="23" width="1284" height="678" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34602648" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34604105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32944608" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -380,18 +376,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Search_Trees/Binary_Search_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Search_Trees/Balanced_Search_Tree.py" />
     <entry file="file://$PROJECT_DIR$/Data_Structure/Search_Trees/AVL.py" />
     <entry file="file://$PROJECT_DIR$/Data_Structure/Graph/Graph.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -572,9 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,35 +622,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day46-48/day2/PyBites – Projects.htm">
+    <entry file="file://$PROJECT_DIR$/day46-48/day2/PyBites – Projects.htm" />
+    <entry file="file://$PROJECT_DIR$/day46-48/day1/scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1530" />
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day46-48/day2/program.py">
+    <entry file="file://$PROJECT_DIR$/day46-48/day3/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day46-48/day3/program.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day46-48/day2/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day46-48/day1/scraper.py">
+    <entry file="file://$PROJECT_DIR$/day46-48/day2/program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
