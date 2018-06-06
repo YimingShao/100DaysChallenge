@@ -25,18 +25,30 @@ def menu():
         print()
 
 def movie_details(json_file):
-    print()
-    print('---------------------------------------')
-    print(f"Movie name: {json_file.get('title')}")
-    print(f"Director: {json_file.get('director')}")
-    print(f"Imdb code: {json_file.get('imdb_code')}")
-    print(f"Genres: {json_file.get('genres')}")
-    print(f"Duration: {json_file.get('duration')} minutes")
-    print(f"Rating: {json_file.get('rating')}")
-    print(f"Year: {json_file.get('year')}")
-    print(f"Imdb score: {json_file.get('imdb_score')}")
-    print('---------------------------------------')
-    print()
+    if isinstance(json_file, dict):
+        print('---------------------------------------')
+        print(f"Movie name: {json_file['title']}")
+        print(f"Director: {json_file['director']}")
+        print(f"Imdb code: {json_file['imdb_code']}")
+        print(f"Genres: {json_file['genres']}")
+        print(f"Duration: {json_file['duration']} minutes")
+        print(f"Rating: {json_file['rating']}")
+        print(f"Year: {json_file['year']}")
+        print(f"Imdb score: {json_file['imdb_score']}")
+        print('------------------------i---------------')
+    else:
+        print()
+        print('---------------------------------------')
+        print(f"Movie name: {json_file.get('title')}")
+        print(f"Director: {json_file.get('director')}")
+        print(f"Imdb code: {json_file.get('imdb_code')}")
+        print(f"Genres: {json_file.get('genres')}")
+        print(f"Duration: {json_file.get('duration')} minutes")
+        print(f"Rating: {json_file.get('rating')}")
+        print(f"Year: {json_file.get('year')}")
+        print(f"Imdb score: {json_file.get('imdb_score')}")
+        print('---------------------------------------')
+        print()
 
 def search_by_keyword():
     svc = MovieSearchClient()
@@ -71,16 +83,8 @@ def search_by_imdb():
     response = svc.movie_by_imdb(imdb_number=key)
     post = response.json()
     if post is not None:
-        print('---------------------------------------')
-        print(f"Movie name: {post['title']}")
-        print(f"Director: {post['director']}")
-        print(f"Imdb code: {post['imdb_code']}")
-        print(f"Genres: {post['genres']}")
-        print(f"Duration: {post['duration']} minutes")
-        print(f"Rating: {post['rating']}")
-        print(f"Year: {post['year']}")
-        print(f"Imdb score: {post['imdb_score']}")
-        print('---------------------------------------')
+        movie_details(post)
+
 
 if __name__ == '__main__':
     main()
