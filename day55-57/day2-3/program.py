@@ -35,7 +35,7 @@ def movie_details(json_file):
         print(f"Rating: {json_file['rating']}")
         print(f"Year: {json_file['year']}")
         print(f"Imdb score: {json_file['imdb_score']}")
-        print('------------------------i---------------')
+        print('---------------------------------------')
     else:
         print()
         print('---------------------------------------')
