@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14bcb6ba-12e5-4406-ac02-b01500f99ea7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/100DaysChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +16,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day67-69/day2-3/app.py">
+        <entry file="file://$PROJECT_DIR$/day73-75/day2-3/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="315">
+              <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
               <folding>
-                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,14 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day43-45/day3/program.py" />
-        <option value="$PROJECT_DIR$/day46-48/day2/program.py" />
-        <option value="$PROJECT_DIR$/day46-48/day2/api.py" />
-        <option value="$PROJECT_DIR$/day46-48/day3/api.py" />
-        <option value="$PROJECT_DIR$/day49-51/day1/practice.py" />
-        <option value="$PROJECT_DIR$/day49-51/day1/command.txt" />
-        <option value="$PROJECT_DIR$/day49-51/day1/program.py" />
-        <option value="$PROJECT_DIR$/day49-51/day1/research.py" />
         <option value="$PROJECT_DIR$/day49-51/day3/program.py" />
         <option value="$PROJECT_DIR$/day52-54/day1/practice.py" />
         <option value="$PROJECT_DIR$/day52-54/day1/pull_xml.py" />
@@ -104,11 +97,19 @@
         <option value="$PROJECT_DIR$/day67-69/day1/text-replacer.py" />
         <option value="$PROJECT_DIR$/day67-69/day2-3/lib.py" />
         <option value="$PROJECT_DIR$/day67-69/day2-3/app.py" />
+        <option value="$PROJECT_DIR$/itchat_translator/app.py" />
+        <option value="$PROJECT_DIR$/itchat_app/app.py" />
+        <option value="$PROJECT_DIR$/day70-72/day1/program.py" />
+        <option value="$PROJECT_DIR$/math/program.py" />
+        <option value="$PROJECT_DIR$/day73-75/day1/program.py" />
+        <option value="$PROJECT_DIR$/day73-75/day1/program2.py" />
+        <option value="$PROJECT_DIR$/day73-75/day1/app.py" />
+        <option value="$PROJECT_DIR$/day73-75/day2-3/app.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="146" />
+    <option name="x" value="127" />
     <option name="y" value="23" />
     <option name="width" value="1308" />
     <option name="height" value="757" />
@@ -129,29 +130,12 @@
             <path>
               <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="day64-66" type="462c0819:PsiDirectoryNode" />
+              <item name="day73-75" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="day64-66" type="462c0819:PsiDirectoryNode" />
-              <item name="day2-3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="day67-69" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="day67-69" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="day67-69" type="462c0819:PsiDirectoryNode" />
+              <item name="day73-75" type="462c0819:PsiDirectoryNode" />
               <item name="day2-3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -167,11 +151,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day73-75/day1" />
+      <recent name="$PROJECT_DIR$/day70-72/day1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/day58-60/day2-3" />
       <recent name="$PROJECT_DIR$/day58-60/day1" />
-      <recent name="$PROJECT_DIR$/day55-57/day2-3" />
-      <recent name="$PROJECT_DIR$/day49-51/day3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day58-60/day2-3" />
@@ -193,25 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app (1)">
-    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100DaysChallenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day67-69/day2-3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day67-69/day2-3/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,17 +186,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day64-66/day2-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day73-75/day2-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day64-66/day2-3/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day73-75/day2-3/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="emailer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dir_files_creater" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day64-66/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day64-66/day1/emailer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dir_files_creater.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +222,47 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day67-69/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day67-69/day1/program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="program (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100DaysChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day70-72/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day70-72/day1/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="program (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100DaysChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day73-75/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day73-75/day1/program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,39 +286,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="text-replacer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100DaysChallenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day67-69/day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day67-69/day1/text-replacer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.program" />
-      <item itemvalue="Python.emailer" />
-      <item itemvalue="Python.app" />
+      <item itemvalue="Python.dir_files_creater" />
+      <item itemvalue="Python.program (2)" />
       <item itemvalue="Python.program (1)" />
-      <item itemvalue="Python.text-replacer" />
-      <item itemvalue="Python.app (1)" />
+      <item itemvalue="Python.program (3)" />
+      <item itemvalue="Python.app" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app (1)" />
-        <item itemvalue="Python.text-replacer" />
-        <item itemvalue="Python.program (1)" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.emailer" />
+        <item itemvalue="Python.program (3)" />
+        <item itemvalue="Python.program (2)" />
+        <item itemvalue="Python.dir_files_creater" />
+        <item itemvalue="Python.program (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -363,19 +347,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="23" width="1308" height="757" extended-state="0" />
+    <frame x="127" y="23" width="1308" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.24541284" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5036603" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.568082" />
       <window_info id="Structure" order="1" sideWeight="0.5013928" side_tool="true" weight="0.22291666" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37335286" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.59297216" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3967789" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -387,21 +371,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22291666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4602649" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.397351" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -416,78 +400,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day55-57/day2-3/movie_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day55-57/day1/program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day55-57/day2-3/program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Graph/lib.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Graph/Graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Sorting/sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Practice_Question/Program.py" />
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Sorting/lib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Tree/Tree.py" />
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Search_Trees/Binary_Search_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Structure/Search_Trees/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Enviroment/challenge_env/lib/python3.6/site-packages/matplotlib/backends/backend_macosx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Enviroment/challenge_env/lib/python3.6/site-packages/matplotlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -629,13 +545,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sql_creater.py" />
-    <entry file="file://$PROJECT_DIR$/dir_files_creater.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day64-66/day1/program.py" />
     <entry file="file://$PROJECT_DIR$/day64-66/day1/emailer.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -661,13 +570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day67-69/day2-3/lib.py" />
     <entry file="file://$PROJECT_DIR$/day64-66/day2-3/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/day67-69/day1/text-replacer.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -678,10 +581,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day67-69/day2-3/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="109">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itchat_translator/app.py" />
+    <entry file="file://$PROJECT_DIR$/itchat_app/app.py" />
+    <entry file="file://$PROJECT_DIR$/math/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir_files_creater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day70-72/day1/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73-75/day1/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73-75/day1/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73-75/day1/program2.py" />
+    <entry file="file://$PROJECT_DIR$/day73-75/day1/app.py" />
+    <entry file="file://$USER_HOME$/Enviroment/challenge_env/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73-75/day2-3/a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73-75/day2-3/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
