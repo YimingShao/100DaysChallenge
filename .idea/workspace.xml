@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14bcb6ba-12e5-4406-ac02-b01500f99ea7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/100DaysChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysChallenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="14bcb6ba-12e5-4406-ac02-b01500f99ea7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +11,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day73-75/day2-3/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day73-75/day2-3/app2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -54,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day49-51/day3/program.py" />
         <option value="$PROJECT_DIR$/day52-54/day1/practice.py" />
         <option value="$PROJECT_DIR$/day52-54/day1/pull_xml.py" />
         <option value="$PROJECT_DIR$/day52-54/day1/parser.py" />
@@ -105,11 +112,12 @@
         <option value="$PROJECT_DIR$/day73-75/day1/program2.py" />
         <option value="$PROJECT_DIR$/day73-75/day1/app.py" />
         <option value="$PROJECT_DIR$/day73-75/day2-3/app.py" />
+        <option value="$PROJECT_DIR$/day73-75/day2-3/app2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
+    <option name="x" value="164" />
     <option name="y" value="23" />
     <option name="width" value="1308" />
     <option name="height" value="757" />
@@ -177,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.app2">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,6 +204,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="app2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100DaysChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day73-75/day2-3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day73-75/day2-3/app2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="dir_files_creater" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,24 +235,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dir_files_creater.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="program (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100DaysChallenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math/program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,17 +298,17 @@
       <item itemvalue="Python.program" />
       <item itemvalue="Python.dir_files_creater" />
       <item itemvalue="Python.program (2)" />
-      <item itemvalue="Python.program (1)" />
       <item itemvalue="Python.program (3)" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.app2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app2" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.program (3)" />
         <item itemvalue="Python.program (2)" />
         <item itemvalue="Python.dir_files_creater" />
-        <item itemvalue="Python.program (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -347,10 +355,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="23" width="1308" height="757" extended-state="0" />
+    <frame x="408" y="131" width="1308" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.24541284" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.24541284" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5036603" />
@@ -404,13 +412,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Enviroment/challenge_env/lib/python3.6/site-packages/matplotlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="126" column="19" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -641,7 +642,17 @@
     <entry file="file://$PROJECT_DIR$/day73-75/day2-3/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day73-75/day2-3/app2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
