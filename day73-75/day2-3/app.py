@@ -28,7 +28,15 @@ if __name__ == '__main__':
     time.sleep(2)
 
     browser.find_element_by_xpath("//*[@id='passwordNext']/content/span").click()
-    time.sleep(10)
+    time.sleep(2)
+
+    browser.find_element_by_xpath("//*[@id=':hd']/div/div").click()
+    time.sleep(2)
+
+    elem = browser.find_element_by_xpath("//*[@id=':mx']")
+    elem.send_keys("shaoyiminglobo@gmail.com")
+    time.sleep(2)
+
 
     browser.quit()
 
