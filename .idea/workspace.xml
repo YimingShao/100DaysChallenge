@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14bcb6ba-12e5-4406-ac02-b01500f99ea7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day73-75/day2-3/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/day73-75/day2-3/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day79-81/day1/addressbook.db" beforeDir="false" afterPath="$PROJECT_DIR$/day79-81/day1/addressbook.db" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,20 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="generatedb.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day79-81/day1/generatedb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,8 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day55-57/day1/requirements.txt" />
-        <option value="$PROJECT_DIR$/day55-57/day1/uplink_helpers.py" />
         <option value="$PROJECT_DIR$/day55-57/day1/program.py" />
         <option value="$PROJECT_DIR$/day55-57/day1/blog_client.py" />
         <option value="$PROJECT_DIR$/day55-57/day2/program.py" />
@@ -105,12 +90,14 @@
         <option value="$PROJECT_DIR$/day76-78/day1/templates/index.html" />
         <option value="$PROJECT_DIR$/day79-81/day1/app.py" />
         <option value="$PROJECT_DIR$/day79-81/day1/generatedb.py" />
+        <option value="$PROJECT_DIR$/day79-81/day1/populatedb.py" />
+        <option value="$PROJECT_DIR$/day82-84/day1/app.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="317" />
-    <option name="y" value="111" />
+    <option name="x" value="237" />
+    <option name="y" value="24" />
     <option name="width" value="1203" />
     <option name="height" value="663" />
   </component>
@@ -127,17 +114,6 @@
             <path>
               <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="day79-81" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100DaysChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100DaysChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="day79-81" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.generatedb">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +191,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="app2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,29 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day73-75/day2-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day82-84/day1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day73-75/day2-3/app2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="dir_files_creater" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100DaysChallenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dir_files_creater.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day82-84/day1/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,6 +222,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day79-81/day1/generatedb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="populatedb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100DaysChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day79-81/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day79-81/day1/populatedb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,19 +265,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.program" />
-      <item itemvalue="Python.dir_files_creater" />
-      <item itemvalue="Python.app2" />
       <item itemvalue="Python.app (1)" />
       <item itemvalue="Python.app (2)" />
       <item itemvalue="Python.generatedb" />
+      <item itemvalue="Python.populatedb" />
+      <item itemvalue="Python.app" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.populatedb" />
         <item itemvalue="Python.generatedb" />
         <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.app (1)" />
-        <item itemvalue="Python.dir_files_creater" />
-        <item itemvalue="Python.app2" />
       </list>
     </recent_temporary>
   </component>
@@ -348,19 +324,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="317" y="111" width="1203" height="663" extended-state="0" />
-    <editor active="true" />
+    <frame x="237" y="24" width="1203" height="663" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.26683292" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50254667" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50254667" />
       <window_info id="Structure" order="1" sideWeight="0.5013928" side_tool="true" weight="0.22291666" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.6672326" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3967789" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -372,21 +347,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22291666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4602649" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.397351" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32944608" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -405,21 +380,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Enviroment/challenge_env/lib/python3.6/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="668" selection-start-line="668" selection-end-line="668" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Enviroment/challenge_env/lib/python3.6/site-packages/requests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day58-60/day1/twitter-api.py" />
     <entry file="file://$PROJECT_DIR$/day58-60/day1/pybites.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -565,13 +525,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itchat_translator/app.py" />
     <entry file="file://$PROJECT_DIR$/itchat_app/app.py" />
-    <entry file="file://$PROJECT_DIR$/math/program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day70-72/day1/program.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -631,9 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,20 +601,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day79-81/day1/app.py">
+    <entry file="file://$PROJECT_DIR$/day79-81/day1/generatedb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day79-81/day1/generatedb.py">
+    <entry file="file://$PROJECT_DIR$/day79-81/day1/addressbook.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day79-81/day1/populatedb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day79-81/day1/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day82-84/day1/app.py" />
+    <entry file="file://$PROJECT_DIR$/math/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
